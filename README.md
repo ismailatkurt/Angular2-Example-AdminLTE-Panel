@@ -1,4 +1,4 @@
-# Angular2 Example Admin Panel
+# Angular2 Example AdminLTE Panel
 
 Example Admin Panel built with Angular2
 
